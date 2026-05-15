@@ -1,0 +1,63 @@
+{
+    "class":[{
+    
+        "Nursery":{
+            "Teacher": ["Megha Chauhan"]
+            },
+
+        "KG":{
+            "Teacher": ["Anamika Patel"]
+
+            },
+
+        "Prep":{
+             "Teacher": ["Varsha Gupta"]
+
+            },
+
+        "Class1":{
+            "Teacher": ["Shikha Verma"]
+
+            },
+
+        "Class2":{
+            "Teacher": ["Neeti Shankar, Aaradhna Pandey"]
+ 
+            },
+
+        "Class3":{
+             "Teacher": ["Seema Gupta, Aashi Patel"]
+            },
+
+        "Class4":{
+             "Teacher": ["Varsha Gupta, Aashi Patel, Aaradhna Pandey"]
+
+            },
+
+        "Class5":{
+            "Teacher": ["Divya Singh, Khushi Sharma, Seema Gupta,Varsha Gupta"]
+            },
+        "Class6":{
+            "Teacher": ["Divya Singh, Khushi Sharma, Neeti Shankar,Shikha Verma"]
+            }
+
+           
+
+
+    }
+
+]
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+

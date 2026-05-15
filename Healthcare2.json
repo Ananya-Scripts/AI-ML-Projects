@@ -1,0 +1,63 @@
+{
+     "Doctor_Departments":{
+        "Genral_Medicine": [
+            {"Name": "Manav Sharma", "Floor":"1st"},
+            {"Name":"Kim Slot", "Floor":"1st"}],
+
+        "Surgery_Department": [
+            {"Name": "Divya Singh", "Floor":"3rd"},
+            {"Name": "Nicole Jones", "Floor":"3rd"},
+            {"Name": "Dino Jensen","Floor":"3rd"}],
+
+        "Pediatrics":[
+            {"Name": "Paul James","Floor":"4th"},
+            {"Name": "Anders Y","Floor":"4th"}],
+
+        "Orthopedics":[
+            {"Name":"Vatsal Kumar","Floor":"6th"},
+            {"Name":"Smith","Floor":"6th"}],
+
+        "Gynecology":[
+            {"Name":"Helen J","Floor":"5th"},
+            {"Name":"Anjali Sethi","Floor":"2nd"},
+            {"Name":"Surbhi Singh","Floor":"2nd"}],
+
+        "Psychaitry":[
+            {"Name":"Sophie Hansen","Floor":"5th"},
+            {"Name":"Krishna Chauhan","Floor":"5th"},
+            {"Name":"Chris Martin","Floor":"5th"}],
+
+        "Dermatology":[
+            {"Name":"David Miller","Floor":"4th"},
+            {"Name":"Leo Foss","Floor":"5th"}],
+
+        "Neurology":[
+            {"Name":"Riya Chakraborty","Floor":"3rd"},
+            {"Name":"Luke Thomas","Floor":"3rd"}],
+
+        "Radiology":[
+            {"Name":"Raghav Malik","Floor":"2nd"},
+            {"Name":"Sanya Goyal","Floor":"2nd"}],
+
+        "Laboratory":[
+            {"Name":"Shivani Singh", "Floor":"5th"},
+            {"Name":"Priya Patel","Floor":"5th"}],
+
+        "Cardiology":[
+            {"Name":"Leo Jensen","Floor":"6th"},
+            {"Name":"Sarah Henriksen","Floor":"6th"},
+            {"Name":"Siya Verma","Floor":"6th"}],
+        
+        "Pharmacy":[
+            {"Name":"ABC Pharmacy", "Floor":"Ground"}],
+
+        "Reception":[
+            {"Floor": "Ground"}],
+
+        "Emergency":[
+            {"Name":"Rohan Jain", "Floor":"1st"},
+            {"Name":"Carmen M", "Floor":"1st"}]
+         
+
+    }
+}

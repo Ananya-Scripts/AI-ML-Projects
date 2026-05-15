@@ -1,0 +1,174 @@
+{
+    "intents": [
+        {
+            "tag": "attendance_query",
+            "patterns": [
+                "minimum attendance kitni honi chahiye",
+                "attendance kam ho to kya problem hogi",
+                "can i give exam with 60 percent attendance",
+                "attendance requirement kya hai",
+                "kitni attendance par exam allowed hai",
+                "low attendance ka kya effect hota hai"
+            ],
+            "responses": [
+                "College me minimum 75% attendance required hoti hai",
+                "Agar attendance kam hai to exam dene me problem ho sakti hai",
+                "Try karo attendance improve karne ka before exams",
+                "Short attendance par fine ya restriction lag sakta hai"
+            ]
+        },
+        {
+            "tag": "leave_request",
+            "patterns": [
+                "leave kaise apply kare",
+                "mujhe 2 din ki chhutti leni hai",
+                "leave application ka format kya hai",
+                "can i take leave for personal reason",
+                "medical leave kaise le",
+                "leave approval ka process kya hai"
+            ],
+            "responses": [
+                "Leave ke liye written application dena hota hai",
+                "Medical leave ke liye certificate bhi lag sakta hai",
+                "Class teacher ya HOD se approval lena hota hai",
+                "Proper reason mention karna zaruri hota hai"
+            ]
+        },
+        {
+            "tag": "assignment_deadline",
+            "patterns": [
+                "assignment submit kab karna hai",
+                "project ki last date kya hai",
+                "late submission allowed hai kya",
+                "assignment delay hone par kya hoga",
+                "deadline extend ho sakti hai kya",
+                "project submission kab tak hai"
+            ],
+            "responses": [
+                "Assignment ki deadline next week hai",
+                "Late submission par marks cut ho sakte hain",
+                "Try to submit before last date",
+                "Extension sirf valid reason par mil sakta hai"
+            ]
+        },
+        {
+            "tag": "exam_rules",
+            "patterns": [
+                "exam rules kya hai",
+                "exam me kya allowed hai",
+                "can i carry phone in exam",
+                "exam instructions kya hai",
+                "exam hall me kya le jana hai",
+                "cheating pakde gaye to kya hoga"
+            ],
+            "responses": [
+                "Mobile phone exam hall me allowed nahi hai",
+                "Admit card aur ID card le jana compulsory hai",
+                "Cheating karne par strict action liya jata hai",
+                "Exam instructions dhyan se follow karo"
+            ]
+        },
+        {
+            "tag": "time_table",
+            "patterns": [
+                "aaj ka timetable kya hai",
+                "meri next class kab hai",
+                "class timing kya hai",
+                "schedule batao",
+                "kab kaun si class hogi",
+                "today classes kya hai"
+            ],
+            "responses": [
+                "Classes usually 9 AM se start hoti hain",
+                "Detailed timetable notice board par available hai",
+                "Schedule department ke hisaab se vary karta hai",
+                "Check karo latest timetable for updates"
+            ]
+        },
+        {
+            "tag": "library",
+            "patterns": [
+                "library kab open hoti hai",
+                "kitni books issue kar sakte hai",
+                "library timing kya hai",
+                "fine kab lagta hai library me",
+                "books return late ho to kya hoga",
+                "can i sit and study in library"
+            ],
+            "responses": [
+                "Library 9 AM se 5 PM tak open hoti hai",
+                "Aap 2 ya 3 books issue kar sakte ho",
+                "Late return par fine lagta hai",
+                "Library me baith kar study kar sakte ho"
+            ]
+        },
+        {
+            "tag": "fees_query",
+            "patterns": [
+                "fees kitni hai",
+                "fees submit hui ya nahi",
+                "last date for fees payment",
+                "late fees charge kitna hai",
+                "fees pending hai kya",
+                "online fees kaise pay kare"
+            ],
+            "responses": [
+                "Fees ki last date check karo notice board par",
+                "Late payment par extra charge lag sakta hai",
+                "Online aur offline dono mode available hain",
+                "Fees status accounts section se check karo"
+            ]
+        },
+        {
+            "tag": "hostel_query",
+            "patterns": [
+                "hostel facility hai kya",
+                "hostel fees kitni hai",
+                "hostel rules kya hai",
+                "room allotment kaise hota hai",
+                "can i get hostel seat",
+                "hostel timing kya hai"
+            ],
+            "responses": [
+                "Hostel facility limited seats ke saath available hai",
+                "Room allotment merit basis par hota hai",
+                "Hostel ke apne rules aur timings hote hain",
+                "Details ke liye hostel office contact karo"
+            ]
+        },
+        {
+            "tag": "canteen_query",
+            "patterns": [
+                "canteen me kya milta hai",
+                "canteen timing kya hai",
+                "food price kya hai",
+                "canteen open hai kya",
+                "lunch kab milta hai",
+                "canteen menu kya hai"
+            ],
+            "responses": [
+                "Canteen me snacks aur meals available hote hain",
+                "Timing usually 8 AM se 4 PM tak hoti hai",
+                "Prices reasonable hote hain for students",
+                "Menu daily change ho sakta hai"
+            ]
+        },
+        {
+            "tag": "scholarship_query",
+            "patterns": [
+                "scholarship kaise apply kare",
+                "koi scholarship available hai kya",
+                "eligibility for scholarship",
+                "scholarship form kab aata hai",
+                "documents kya chahiye scholarship ke liye",
+                "government scholarship details"
+            ],
+            "responses": [
+                "Scholarship ke liye online apply karna hota hai",
+                "Eligibility criteria scheme par depend karta hai",
+                "Required documents me income certificate aur marksheet hoti hai",
+                "Details official website par check karo"
+            ]
+        }
+    ]
+}

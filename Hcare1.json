@@ -1,0 +1,14 @@
+{
+    "hospital":{
+        "Address":"22 6th Ballerup, Sweden",
+        "Hospital_Care_Number":9630040011,
+        "Emergency_Timing": "24*7, Everyday",
+        "OPD_Timing": "8am to 12pm-Monday to Friday, 8am to 10am-Saturday to Sunday",
+        "Visitor's_Timing": "12pm to 3pm",
+        "Pharmacy": "2nd Floor",
+        "Canteen":"4th Floor", 
+        "Canteen_Timing": "7am to 11pm"
+
+    }
+}
+
